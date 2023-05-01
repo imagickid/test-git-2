@@ -6,3 +6,6 @@
 
 /////
 git remote -v (url)
+git reset
+git diff
+git reset --hard
